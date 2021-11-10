@@ -72,6 +72,6 @@ https://marketplace.visualstudio.com/items?itemName=FlutterBricksProductions.flu
 
 See the below gifs for how to use the extension.
 
-![Some](widgetDemo.gif)
+![Some](asset/widgetDemo.gif)
 
-![Some](screenDemo.gif)
+![Some](asset/screenDemo.gif)
