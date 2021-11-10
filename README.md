@@ -11,7 +11,7 @@ My New flutter Project For launching My Profile in Various Social Media Platform
 
 
 This is the Working Demo of My App
-![AppDemo](asset/AppDemo.mp4)
+![AppDemo](asset/AppDemo.gif)
 
 But I'm not done this whole app all by Myself.
 I used an Extension named Flutter Bricks by Flutter Bricks Teams .This Extension provides you with a bunch of useful widgets that you can use to build your Flutter apps just with some renaming you able to create your own widgets and use them in your Flutter apps.
